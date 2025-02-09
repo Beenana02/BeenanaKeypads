@@ -1,2 +1,2 @@
-# Custom Marco and Keypads
+# Custom Marcopads and Keypads
 Learning to create marco pads and keyboard! 
