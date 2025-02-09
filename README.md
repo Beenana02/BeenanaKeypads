@@ -1,2 +1,2 @@
-# FrutigerAeroKeyPads
-Learning to create marco pads and keyboard! All of the designs are in the frutiger aero style
+# Custom Marco and Keypads
+Learning to create marco pads and keyboard! 
